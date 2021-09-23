@@ -47,3 +47,8 @@ ul.posts {
 ul.posts li {
   list-style: none;
 }
+
+img {
+  width: 50%;
+  height: 50%;
+}
